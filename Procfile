@@ -1,1 +1,1 @@
-web: node .
+web: cd GamingHub && npm start
